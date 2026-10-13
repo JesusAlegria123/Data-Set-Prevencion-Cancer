@@ -1,0 +1,9 @@
+opencv-python-headless
+imagehash
+albumentations>=1.4,<3
+seaborn
+tqdm
+scikit-learn
+pandas
+numpy
+matplotlib
