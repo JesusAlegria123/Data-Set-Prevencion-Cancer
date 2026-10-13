@@ -3,6 +3,8 @@
 **Universidad Nacional de San Antonio Abad del Cusco**
 **Curso:** Visión Computacional — **Docente:** Hans Harley C.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JesusAlegria123/Data-Set-Prevencion-Cancer/blob/main/notebooks/HAM10000_Preprocesamiento_Colab.ipynb)
+
 Análisis y preprocesamiento de imágenes dermatoscópicas para la clasificación de lesiones cutáneas (HAM10000).
 
 ## Integrantes
